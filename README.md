@@ -18,7 +18,7 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 - AI Professional Headshot Generator  
 
 ### 💬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/kylemosier/) | [Email](mosierkyle@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
 
 ### 📚 Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
