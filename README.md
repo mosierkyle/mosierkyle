@@ -6,19 +6,19 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 
 
 ### 🗂 Projects
-- Galvanize Health AI | [Live](https://nomad-ventures.silvatim.com/) |
-[Code](https://github.com/silva-tim/nomad-ventures)
-- Resume Builder | [Live](https://silvatim.com/) | [Code](https://github.com/silva-tim/portfolio-website)
-- Weather Forecaster | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
-- Virtaul Library | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
-- Task Tracker | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
+- Galvanize Health AI 
+- Resume Builder 
+- Weather Forecaster
+- Virtaul Library 
+- Task Tracker
 
-### 💻 Currently Learning
-- React Native
+### 💻 Currently Learning / Working on
 - Next js
+- React Native
+- AI Professional Headshot Generator  
 
 ### 💬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/silva-tim/) | [Email](https://silvatim.com/)
+[LinkedIn](https://www.linkedin.com/in/kylemosier/) | [Email](mosierkyle@gmail.com)
 
 ### 📚 Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
