@@ -6,9 +6,9 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 
 ### 🗂 Projects
 - Galvanize Health AI 
-- Resume Builder
+- Impressify
 - Dream Decors
-- Weather Forecaster
+- Forecaster
 
 ### 💻 Currently Learning / Working on
 - StudySpot: A community driven application that helps you find the best study spots on your college campus
