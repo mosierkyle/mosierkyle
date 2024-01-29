@@ -6,8 +6,8 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 
 ### 🗂 Projects
 - Galvanize Health AI 
-- Impressify
 - Dream Decors
+- Impressify
 - Forecaster
 
 ### 💻 Currently Learning / Working on
