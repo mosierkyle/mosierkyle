@@ -5,10 +5,10 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 
 
 ### 🗂 Projects
-- Galvanize Health AI 
-- Dream Decors
-- Impressify
-- Forecaster
+- [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai)
+- [Dream Decors](https://github.com/mosierkyle/dream-decors)
+- [Impressify](https://github.com/mosierkyle/impressify)
+- [Forecaster](https://github.com/mosierkyle/forceaster)
 
 ### 💻 Currently Learning / Working on
 - StudySpot: A community driven application that helps you find the best study spots on your college campus
