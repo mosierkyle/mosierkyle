@@ -1,7 +1,7 @@
 <h3 align="center">I'm Kyle, a software developer from San Luis Obispo, CA.</h3>
 
 ### 🗣️ About Me
-I am a driven full stack developer who loves to learn and build cool stuff. I am currently pursuing a BS in Business Administration / Information Systems at California Polytechnic State University. My focus lies in transforming creative ideas into innovative, value-packed applications. 
+I am a driven full stack developer who loves to learn and build cool stuff. I am currently pursuing a BS in Business Administration / Information Systems at Cal Poly San Luis Obispo. My focus lies in transforming creative ideas into innovative, value-packed applications. 
 
 
 ### 🗂 Projects
