@@ -12,7 +12,7 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 ### 💻 Currently Learning / Working on
 - [StudySpot:](https://github.com/mosierkyle/study-spot) A community driven application that helps you find the best study spots on your college campus
 - Next.js
-- Typescript
+- TypeScript
 
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
