@@ -10,7 +10,7 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 - [Impressify](https://github.com/mosierkyle/impressify)
 
 ### 💻 Currently Learning / Working on
-- [StudySpot:](https://github.com/mosierkyle/study-spot) A community driven app that helps you find the best study spots on your college campus
+- [StudySpot](https://github.com/mosierkyle/study-spot) A community driven app that helps you find the best study spots on your college campus
 - Next.js
 - TypeScript
 
