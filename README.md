@@ -5,7 +5,7 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 
 
 ### 🗂 Projects
-- [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visulizer - Plenful Internship 
+- [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualizer - Plenful Internship 
 - [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI health and fitness planner
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
   
