@@ -10,7 +10,7 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
   
 ### 💻 Currently Learning / Working on
-- [StudySpot](study-spot-five.vercel.app): A community driven app that helps you find the best study spots on your college campus
+- [StudySpot]([study-spot-five.vercel.app](https://github.com/mosierkyle/study-spot)): A community driven app that helps you find the best study spots on your college campus
 - Next.js
 - TypeScript
 
