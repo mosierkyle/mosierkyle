@@ -10,11 +10,6 @@ I am a driven full stack developer who loves to learn and build cool stuff. I am
 - [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI health and fitness planner
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
   
-### 💻 Currently Learning / Working on
-- Plenful Internship
-- Next.js
-- TypeScript
-
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
 
