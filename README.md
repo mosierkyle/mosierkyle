@@ -1,7 +1,7 @@
-<h3 align="center">Hey I'm Kyle </h3>
+<h3 align="center">Hey I'm Kyle!</h3>
 
 ### 🗣️ About Me
-I am a driven full stack developer and Software Engineer who loves to learn and build valuable things. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my work!
+I am a driven Full Stack Developer and Software Engineer who loves to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my work!
 
 
 ### 🗂 Projects
