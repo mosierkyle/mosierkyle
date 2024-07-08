@@ -6,8 +6,8 @@ I am a driven Full Stack Developer and Software Engineer who loves to learn and 
 
 ### 🗂 Projects
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
-- [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualizer - Plenful Internship 
-- [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI health and fitness planner
+- [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualization tool - Plenful Internship 
+- [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI powered health and fitness planner
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
   
 ### 💬 Let's Connect!
