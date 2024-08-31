@@ -3,23 +3,22 @@
 ### 🗣️ About Me
 I am a driven Full Stack Developer and Software Engineer who loves to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. I also fly planes. Check out some of my work! 
 
-
-
 ### 🗂 Projects
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
 - [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualization tool - Plenful Internship 
 - [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI powered health and fitness planner
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
 
-
+### 📚 Currently Working On / Learning
+- [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
+- Django / Python
+- LeetCode grind
   
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
 
 
----
-
-### ⚡ Activity:
+### ⚡ Activity
 [![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle/github-readme-activity-graph)
 
 <div align="center">
@@ -33,8 +32,7 @@ I am a driven Full Stack Developer and Software Engineer who loves to learn and 
   </a>
 </p>
 
-------
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Languages and Tools</h3>
 
 <table>
   <tr>
