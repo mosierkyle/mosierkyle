@@ -17,7 +17,7 @@ I am a driven Full Stack Developer and Software Engineer who loves to learn and 
 [![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
+  <a href="https://github.com/mosierkyle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosierkyle&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mosierkyle"/>
   </a>
 </div>
