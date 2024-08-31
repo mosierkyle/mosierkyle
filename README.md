@@ -13,10 +13,9 @@ I am a driven Full Stack Developer and Software Engineer who loves to learn and 
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
 - Django / Python
 - LeetCode grind
-  
+
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
-
 
 ### ⚡ Activity
 [![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle/github-readme-activity-graph)
@@ -32,9 +31,9 @@ I am a driven Full Stack Developer and Software Engineer who loves to learn and 
   </a>
 </p>
 
-<h3 align="left">💻Languages and Tools</h3>
+<h3 align="left">💻 Languages and Tools</h3>
 
-<table>
+<table >
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,figma"/></td>
