@@ -1,7 +1,7 @@
 <h3 align="center">Kyle Mosier</h3>
 
 ### 🗣️ About Me
-I am a driven Full Stack Developer and Software Engineer who loves to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. I also fly planes. Check out some of my work! 
+I am a Software Engineer at Plenful - I love to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. I also fly planes. Check out some of my work! 
 
 ### 📚 What I've been working on
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
