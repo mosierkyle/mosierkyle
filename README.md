@@ -3,6 +3,9 @@
 ### 🗣️ About Me
 I am a Software Engineer at Plenful - I love to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. I also fly planes. Check out some of my work! 
 
+### Work GH account (I swear I code)😅
+https://github.com/kylemosier
+
 ### 📚 What I've been working on
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
