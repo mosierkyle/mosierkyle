@@ -1,12 +1,13 @@
 <h3 align="center">Kyle Mosier</h3>
 
 ### 🗣️ About Me
-I am a Software Engineer at Plenful - I love to learn and build valuable stuff. I am a recent graduate from Cal Poly San Luis Obispo where I studied Business and Computer Science. I also fly planes. Check out some of my work! 
+I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my creations! 
 
-### 🏗️ My work github account (I swear I code 😅)
+### 🏗️ My Plenful GitHub account (proof that I code 😅)
 https://github.com/kylemosier
 
 ### 📚 What I've been working on
+- [WhoWon]: Upload your golf scorecard and find out who won! Apply handicaps, different game modes, and teams!
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
 - [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualization tool - Plenful Internship 
