@@ -14,7 +14,7 @@ https://github.com/kylemosier
 - [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI powered health and fitness planner
 - [Dream Decors](https://github.com/mosierkyle/dream-decors): Online furniture store
 
-### 💬 Let's Connect!
+### 💬 Reach out through...
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
 
 ### ⚡ Activity
