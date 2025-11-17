@@ -3,7 +3,7 @@
 ### 🗣️ About Me
 I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my creations! 
 
-### 🏗️ My plenful github account (proof that I code 😅)
+### 🏗️ My plenful github account (I swear that I code😅)
 https://github.com/kylemosier
 
 ### 📚 What I've been working on
