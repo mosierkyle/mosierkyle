@@ -18,11 +18,6 @@ https://github.com/kylemosier
 
 ### ⚡ Activity
 [![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle/)
-<!-- <div align="center">
-  <a href="https://github.com/mosierkyle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosierkyle&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mosierkyle"/>
-  </a>
-</div> -->
 <p align="center">
   <a href="https://github.com/mosierkyle">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosierkyle&&theme=tokyonight" alt="mosierkyle" />
