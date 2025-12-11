@@ -1,7 +1,7 @@
 <h3 align="center">Kyle Mosier</h3>
 
 ### 🗣️ About Me
-I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my creations! 
+I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. I like to build things
 
 ### 📚 What I've been working on
 - [WhoWon](https://github.com/mosierkyle/who-won): Upload your golf scorecard and find out who won!
