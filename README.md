@@ -4,7 +4,7 @@
 I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. Check out some of my creations! 
 
 ### 📚 What I've been working on
-- [WhoWon](https://github.com/mosierkyle/who-won): Upload your golf scorecard and find out who won! Apply handicaps, different game modes, and teams!
+- [WhoWon](https://github.com/mosierkyle/who-won): Upload your golf scorecard and find out who won!
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
 - [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualization tool - Plenful Internship 
