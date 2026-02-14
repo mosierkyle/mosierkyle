@@ -4,8 +4,8 @@
 I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. I like to build things
 
 ### 📚 What I've been working on
-- [Big Board](https://www.linkedin.com/in/kylemosier/): Golf leaderboard app. Track your rounds. Climb the leaderboard. Get AI-powered recaps,
-- [Death, Taxes, Books](https://www.linkedin.com/in/kylemosier/): Virtual bookshelf. Track what you're reading, what you've read, and what you want to read. Get AI book recommendations
+- [The Big Board](https://www.linkedin.com/in/kylemosier/): Golf leaderboard app. Track your rounds. Climb the leaderboard. Get AI-powered recaps,
+- [Death, Taxes, and Books](https://www.linkedin.com/in/kylemosier/): Virtual bookshelf. Track what you’re reading, what you’ve read, and what you want to read. Get AI book recommendations
 - [WhoWon](https://github.com/mosierkyle/who-won): Upload your golf scorecard and find out who won
 - [JobHunt](https://github.com/mosierkyle/study-spot): An app to assist you on your search for employment
 - [StudySpot](https://github.com/mosierkyle/study-spot): A community driven app that helps you find the best study spots on your college campus
