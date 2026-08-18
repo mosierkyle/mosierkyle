@@ -14,14 +14,14 @@ I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo w
 - [Graph UI Library](https://github.com/mosierkyle/Graph_UI_LIbrary): JSON data visualization tool - Plenful Internship 
 - [Galvanize Health AI](https://github.com/mosierkyle/galvanize-health-ai): AI powered health and fitness planner
 
-### 🏗️ Plenful github account
+### 🏗️ Plenful GitHub account
 https://github.com/kylemosier
 
 ### 💬 Reach out through...
 [LinkedIn](https://www.linkedin.com/in/kylemosier/) | mosierkyle@gmail.com
 
 ### ⚡ Activity
-[![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle/)
+[![Kyle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosierkyle&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mosierkyle)
 <p align="center">
   <a href="https://github.com/mosierkyle">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosierkyle&&theme=tokyonight" alt="mosierkyle" />
