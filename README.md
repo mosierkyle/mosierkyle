@@ -1,7 +1,7 @@
 <h3 align="center">Kyle Mosier</h3>
 
 ### 🗣️ About Me
-I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo where I studied Business and Computer Science. I like to build things
+I am a Software Engineer at Plenful. I graduated from Cal Poly San Luis Obispo. I like to build things
 
 ### 📚 What I've been working on
 - StraightShot: Upload/Photograph any document -> extract what you need -> Review -> confirm -> instantly write it to any desired location (Spreadsheet, Notion, etc)
